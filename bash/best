@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "This School is so cool!"
+=======
+echo "Best School"
+>>>>>>> c767729a7011d3e4c82606a5e66ff76bc9359a21
